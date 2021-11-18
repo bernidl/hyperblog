@@ -3,4 +3,6 @@ Esta es mi historia, Bernardo Di Leo
 Soy Bernardo y tengo años, naci en Mendoza Argentina
 Futuro programador
 
+Mis hijos son el tupac, la oli y el Django.
+
 Mañana nos enfocaremos en sus estudios.
