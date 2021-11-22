@@ -47,8 +47,13 @@ body
 }
 #footer
 {
+<<<<<<< HEAD
     background:white;
     color: #333;
+=======
+    background:#333;
+    color: white;
+>>>>>>> e2190f24dfe54e1637b38fcfca5af4a3590086d1
     text-align: center;
     padding: 0.5em;
 }
