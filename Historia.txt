@@ -7,4 +7,6 @@ Mis hijos son el tupac, la oli y el Django.
 
 Master 1
 
+Master 2
+
 Mañana nos enfocaremos en sus estudios.
